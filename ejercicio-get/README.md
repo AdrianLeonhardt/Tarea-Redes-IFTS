@@ -1,4 +1,3 @@
-===============================================
 EJERCICIO: API DE GITHUB + MYSQL
 ===============================================
 
@@ -6,7 +5,7 @@ EJERCICIO: API DE GITHUB + MYSQL
    datos de sus repositorios en una tabla llamada `repositorios` y de sus followers 
    en una tabla llamada `followers`, utilizando MySQL como base de datos.
 
-================================================
+
 INSTRUCCIONES PARA EJECUTAR EL PROYECTO
 ================================================
 
